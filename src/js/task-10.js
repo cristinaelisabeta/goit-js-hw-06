@@ -32,4 +32,4 @@ createButton.addEventListener('click', () => {
 const destroyButton = document.querySelector('[data-destroy]');
 destroyButton.addEventListener('click', () => {
   destroyBoxes();
-});
+}); 
