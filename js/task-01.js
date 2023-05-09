@@ -8,3 +8,4 @@ categoriesItems.forEach((item) => {
   const categoryElements = item.querySelectorAll('li').length;
   console.log(`Category: ${categoryTitle}\nElements: ${categoryElements}`);
 });
+
